@@ -1,3 +1,5 @@
 # codeforpgh-20180613
 
-https://hub.mybinder.org/user/eleanortutt-codeforpgh-20180613-ymqu6g14/notebooks/code-for-pgh.ipynb
+Find the notebook here!
+
+https://hub.mybinder.org/user/eleanortutt-codeforpgh-20180613-1mez6da0/notebooks/code-for-pgh.ipynb
