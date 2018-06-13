@@ -1,4 +1,4 @@
 pandas
 folium
 simplejson
-branca.colormap
+branca
