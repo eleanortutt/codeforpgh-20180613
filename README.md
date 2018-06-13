@@ -2,4 +2,5 @@
 
 Find the notebook here!
 
-https://hub.mybinder.org/user/eleanortutt-codeforpgh-20180613-1mez6da0/notebooks/code-for-pgh.ipynb
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eleanortutt/codeforpgh-20180613/master)
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/eleanortutt/codeforpgh-20180613/master
